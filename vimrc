@@ -1,7 +1,4 @@
 ﻿" TODO {{{################################################################
-" ++ DRZEWO UNDO, ZACHOWANIE UNDO HISTORY
-" +- CTAGS - STRUKTURA KODU
-" -- POPRAWIANIE TYPO
 
 " LEARN VIM SCRIPT http://learnvimscriptthehardway.stevelosh.com/
 " rozdzial autocommands - reindent file podczas zapisu
